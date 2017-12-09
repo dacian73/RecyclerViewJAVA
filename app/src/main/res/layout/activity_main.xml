@@ -5,7 +5,6 @@
     android:layout_width="match_parent"
     android:layout_height="match_parent"
     tools:context="com.example.thephilosopherwanderer.recyclerviewjava.MainActivity">
-<!-- TODO (2) Create a RecyclerView view and give it an ID -->
 <android.support.v7.widget.RecyclerView
     android:layout_width="match_parent"
     android:layout_height="match_parent"
